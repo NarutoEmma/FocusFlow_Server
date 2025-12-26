@@ -29,7 +29,7 @@ const PROVIDERS = {
     groq: {
         url: 'https://api.groq.com/openai/v1/chat/completions',
         keyName: 'GROQ_API_KEY',
-        model: process.env.GROQ_MODEL || 'llama3-70b-8192',
+        model: process.env.GROQ_MODEL || 'llama-3.1-8b-instant',
         authHeader: (key) => `Bearer ${key}`,
         requestBody: (messages) => ({
             model: PROVIDERS.groq.model,
