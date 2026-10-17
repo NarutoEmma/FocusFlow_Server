@@ -101,7 +101,7 @@ This server is deployed on [Render](https://render.com). To deploy your own inst
 **Igwegbe Emmanuel**
 - GitHub: [@NarutoEmma](https://github.com/NarutoEmma)
 - LinkedIn: [emmanuel-igwegbe](https://www.linkedin.com/in/emmanuel-igwegbe-22b837347/)
-- Email: captainemm45@gmail.com
+- Email: captainemm699@gmail.com
 
 ---
 
